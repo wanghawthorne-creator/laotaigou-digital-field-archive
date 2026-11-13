@@ -1,0 +1,743 @@
+{
+  "snapshotDate": "2026-11-13",
+  "fileCount": 147,
+  "archive": "laotaigou-showcase-20261113.zip",
+  "archiveSha256": "c706d211ecacb560f8143e9527db0706e92b0587b0bbf5b6c2df50f1c05eb342",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 73,
+      "sha256": "be51174dda35b22c529c6584167747dbd30b16506c1542052e66fbfeff390afd"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 266,
+      "sha256": "76432e5930538dc6114e6cbab2ffe7399cff518a5d8b7679a00bbbf93d6b9b62"
+    },
+    {
+      "path": "archive.schema.json",
+      "bytes": 73957,
+      "sha256": "d69d0101c87feddbdc9d49201a6ca96c6e1ee3a21fba257d6ec70bf15e2da3ba"
+    },
+    {
+      "path": "COPYRIGHT.md",
+      "bytes": 1735,
+      "sha256": "5289190851cc5b3839c6e9f0e68ee25392342bc6fd4b0c9fbc43bd564c5c54e7"
+    },
+    {
+      "path": "data-model.md",
+      "bytes": 25900,
+      "sha256": "18f3004f1c073e7d7509065e06dc076a734f19220313c1d2b63d822ef5eba0ca"
+    },
+    {
+      "path": "design-foundation.md",
+      "bytes": 16231,
+      "sha256": "a8f17ac41395bc97cd4687c3ed58c36bad74c63c656c675b19d2b987a32c22fb"
+    },
+    {
+      "path": "docs/preview.png",
+      "bytes": 90094,
+      "sha256": "3590dfde539e84df5250c1f5dc582aebf8cfe71c88c1cc2494c9836e0668583c"
+    },
+    {
+      "path": "field-media/field-01.jpg",
+      "bytes": 157789,
+      "sha256": "9c7e4f35076977778e6c796c18e38a308faf39c2f76c9580270972c82071a184"
+    },
+    {
+      "path": "field-media/field-02.jpg",
+      "bytes": 485631,
+      "sha256": "84e5b69a17291e5119df55283d1ce62a5f3e2e7767afae55a8a029c0279331c2"
+    },
+    {
+      "path": "field-media/field-03.jpg",
+      "bytes": 102558,
+      "sha256": "24857458c779357db4047795e2fafe209753344d18f88695643d4cc0e5b8f514"
+    },
+    {
+      "path": "field-media/field-04.jpg",
+      "bytes": 271555,
+      "sha256": "8fef93498ca35cedda9fcfb146f7e9751ace69881f6005c9d855c31645bbe5ae"
+    },
+    {
+      "path": "field-media/field-05.jpg",
+      "bytes": 334947,
+      "sha256": "3b8beb3ee29ff3603ff187fe0a49c0d61c5854c1af49f52642d2eb27ed0ebc9f"
+    },
+    {
+      "path": "field-media/field-06.jpg",
+      "bytes": 281639,
+      "sha256": "f622f35a8776f09605e1c92b7ed42631ff5f223fded2e1509ecad1d7fdc03646"
+    },
+    {
+      "path": "field-media/field-07.jpg",
+      "bytes": 562241,
+      "sha256": "3b38bb09a1b54f54e66b8f49b168cfe233f36e3bc7f55d24771243b012eb95aa"
+    },
+    {
+      "path": "field-media/field-08.jpg",
+      "bytes": 161591,
+      "sha256": "0f6b466ac98bf76937b7ce929a97da74cc3967928d60d69a6b82655c8267e3c4"
+    },
+    {
+      "path": "field-media/manifest.js",
+      "bytes": 19976,
+      "sha256": "064e939cb2c0a577ed211a0b758bb2936aeb825486e403a485cba2d658e46a0e"
+    },
+    {
+      "path": "field-media/manifest.json",
+      "bytes": 19872,
+      "sha256": "bbab444e658292fce315fcf8d8f527b2f1b164f39a32dc2efd6a44e45819b8ae"
+    },
+    {
+      "path": "field-media/qingshang-wordmark.png",
+      "bytes": 950205,
+      "sha256": "c3ee5444e34bc44d28dc2e4a02f1c8a352923a59c2e05a5672a30bff308ac9f7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 307115,
+      "sha256": "133f21c3682ad240dd0c66ca9af2b0c07af940b54c3dac145ddf957a78415c00"
+    },
+    {
+      "path": "prototype/assets/app.js",
+      "bytes": 23655,
+      "sha256": "06f2a398c4701c762dd9e977f3073a16357f799b0428a27178bf239b769b5cb7"
+    },
+    {
+      "path": "prototype/assets/archive-core.js",
+      "bytes": 1616,
+      "sha256": "c8c7914985b068b923054c37a3cda39f31b280b2ca801bf9e3a4af84da17289c"
+    },
+    {
+      "path": "prototype/assets/qingshang.css",
+      "bytes": 16438,
+      "sha256": "c5dad700ffdb7506d402e2277064074fd399db6e8732a0aac349b75e20c395f2"
+    },
+    {
+      "path": "prototype/assets/qingshang.js",
+      "bytes": 20763,
+      "sha256": "02bf057c5e9d40979ae77d5969332df41474e6847b7f3a5a0a82062207a9b5c2"
+    },
+    {
+      "path": "prototype/assets/site.css",
+      "bytes": 24642,
+      "sha256": "bb57002a5c2e2b2cf7c46322a6f831d16c3124c240c875c1478f209e47a06bf6"
+    },
+    {
+      "path": "prototype/assets/tokens.css",
+      "bytes": 662,
+      "sha256": "20b733c7177f248cac4f27c50b7b4f07551bc9cd8278b5029b73ccc84768ba9d"
+    },
+    {
+      "path": "prototype/content/demo-data.js",
+      "bytes": 4692,
+      "sha256": "ca90ce20bd06c3e4a61924d255f858c6b86ae6fe211e6cb62259fdaf08199de0"
+    },
+    {
+      "path": "prototype/content/qingshang-data.js",
+      "bytes": 191973,
+      "sha256": "cf9aa2a4c7f9a844bbf5638b54e03cd9a58d174b3b7a381164e99a21a6aadee4"
+    },
+    {
+      "path": "prototype/index.html",
+      "bytes": 2659,
+      "sha256": "f8bed7f6b8da23768202c239096ea58b682aed7dffbd543a028a728e1e04f7a5"
+    },
+    {
+      "path": "qingshang/assets-manifest.json",
+      "bytes": 61628,
+      "sha256": "9a4fa82002152fffd83015cfd526e4248425b8f95947a8c753c0e87d77710f28"
+    },
+    {
+      "path": "qingshang/catalog.json",
+      "bytes": 1616,
+      "sha256": "d84bf895fad04540b626a17d87cfc9cf7e1df27202d92fa5e0f1b6986b7e9737"
+    },
+    {
+      "path": "qingshang/media/010974b3cd56d4815980541087006b2482d23b97c8512c05169a7d4c8857608c.png",
+      "bytes": 1371021,
+      "sha256": "010974b3cd56d4815980541087006b2482d23b97c8512c05169a7d4c8857608c"
+    },
+    {
+      "path": "qingshang/media/045e70814967214ecb1f575d020848d5534cf4dadfdbe3f20f5406ab1aa3d31e.jpg",
+      "bytes": 59020,
+      "sha256": "045e70814967214ecb1f575d020848d5534cf4dadfdbe3f20f5406ab1aa3d31e"
+    },
+    {
+      "path": "qingshang/media/093d9b5c2d46d28617898f562a841b82bfbee261ab67e19113c390769e700469.jpg",
+      "bytes": 22694,
+      "sha256": "093d9b5c2d46d28617898f562a841b82bfbee261ab67e19113c390769e700469"
+    },
+    {
+      "path": "qingshang/media/0fe88a97789e0e99be6c6eec8c23f9181ef22c15209f468dacd59c07c926c119.jpg",
+      "bytes": 55858,
+      "sha256": "0fe88a97789e0e99be6c6eec8c23f9181ef22c15209f468dacd59c07c926c119"
+    },
+    {
+      "path": "qingshang/media/109d7e6fd0e4d38b00130387ee88868dfb64fc120a4d79cd0e6f9f1371634961.jpg",
+      "bytes": 21920,
+      "sha256": "109d7e6fd0e4d38b00130387ee88868dfb64fc120a4d79cd0e6f9f1371634961"
+    },
+    {
+      "path": "qingshang/media/11af2c45b140fafe25248082e6af93f5c7bc36e4fa24cdb4edb6fb45968619f3.jpg",
+      "bytes": 46951,
+      "sha256": "11af2c45b140fafe25248082e6af93f5c7bc36e4fa24cdb4edb6fb45968619f3"
+    },
+    {
+      "path": "qingshang/media/21f01f974f81d20f3f82ec8bef21348cda01e438ce1505e3e2d18884615062a5.jpg",
+      "bytes": 57746,
+      "sha256": "21f01f974f81d20f3f82ec8bef21348cda01e438ce1505e3e2d18884615062a5"
+    },
+    {
+      "path": "qingshang/media/26ad71d7fe140b84b24cde50cb66103e5e7894093eec7c56d97a0025b0d8b700.jpg",
+      "bytes": 120886,
+      "sha256": "26ad71d7fe140b84b24cde50cb66103e5e7894093eec7c56d97a0025b0d8b700"
+    },
+    {
+      "path": "qingshang/media/288ee66320750c30b71f57769acb849600ae1dbf5b19eed8f7e7b7eb4697aa51.png",
+      "bytes": 1805250,
+      "sha256": "288ee66320750c30b71f57769acb849600ae1dbf5b19eed8f7e7b7eb4697aa51"
+    },
+    {
+      "path": "qingshang/media/2ca88cd7aaaff0d82491a0d1ccad16b2137ea657b56079986cc55cac20f55e05.jpg",
+      "bytes": 123949,
+      "sha256": "2ca88cd7aaaff0d82491a0d1ccad16b2137ea657b56079986cc55cac20f55e05"
+    },
+    {
+      "path": "qingshang/media/2cdd7888db1e55ab652da91b792ace9b5febcd7457a2090b8b810deae106b3d7.png",
+      "bytes": 1703,
+      "sha256": "2cdd7888db1e55ab652da91b792ace9b5febcd7457a2090b8b810deae106b3d7"
+    },
+    {
+      "path": "qingshang/media/2df8fe9d6c3515b91e3a336f471db977dd698335e78b39be96665cf6c91d5848.jpg",
+      "bytes": 152366,
+      "sha256": "2df8fe9d6c3515b91e3a336f471db977dd698335e78b39be96665cf6c91d5848"
+    },
+    {
+      "path": "qingshang/media/2e3c32705e2f46e1746c8be54bf8bf8edae6a26e0973744e68e7fa2e4e4ece7d.jpg",
+      "bytes": 21183,
+      "sha256": "2e3c32705e2f46e1746c8be54bf8bf8edae6a26e0973744e68e7fa2e4e4ece7d"
+    },
+    {
+      "path": "qingshang/media/3445be3b688dfafb14ade8da1640a7f9bc947d063025a2847104385a957a23b4.jpg",
+      "bytes": 166298,
+      "sha256": "3445be3b688dfafb14ade8da1640a7f9bc947d063025a2847104385a957a23b4"
+    },
+    {
+      "path": "qingshang/media/3c42f44e0b62fd3ac07a5f1a670408470f7ed4d43a2a47808b340f042b565c46.jpg",
+      "bytes": 20236,
+      "sha256": "3c42f44e0b62fd3ac07a5f1a670408470f7ed4d43a2a47808b340f042b565c46"
+    },
+    {
+      "path": "qingshang/media/3cc44cfbc29381dc54ab4d0c2a5626d8f9c5422fdd806123677217a15f5056f6.jpg",
+      "bytes": 23802,
+      "sha256": "3cc44cfbc29381dc54ab4d0c2a5626d8f9c5422fdd806123677217a15f5056f6"
+    },
+    {
+      "path": "qingshang/media/4121912c016ce7d66a0f717df729cf2ff79ca91f84037629ff98a3f523bdd15d.png",
+      "bytes": 2297,
+      "sha256": "4121912c016ce7d66a0f717df729cf2ff79ca91f84037629ff98a3f523bdd15d"
+    },
+    {
+      "path": "qingshang/media/42109fbceb146a10a8a0fe801b541c84da85349637738e71da175dc9ea4ff1b2.jpg",
+      "bytes": 239175,
+      "sha256": "42109fbceb146a10a8a0fe801b541c84da85349637738e71da175dc9ea4ff1b2"
+    },
+    {
+      "path": "qingshang/media/451720d00834b5f6456dd6002105dbbd069e9c6e344148618d4b50eed33a240f.png",
+      "bytes": 1735880,
+      "sha256": "451720d00834b5f6456dd6002105dbbd069e9c6e344148618d4b50eed33a240f"
+    },
+    {
+      "path": "qingshang/media/4f23e428d481b5019bd6d20827fe39fc6f217b8a29dcd76452915b0cde1378bb.jpg",
+      "bytes": 20942,
+      "sha256": "4f23e428d481b5019bd6d20827fe39fc6f217b8a29dcd76452915b0cde1378bb"
+    },
+    {
+      "path": "qingshang/media/50e959bd6cc52dbdcb3c52fc7db7fa7915e7edb471274cf3b88e174976ac97e2.jpg",
+      "bytes": 14217,
+      "sha256": "50e959bd6cc52dbdcb3c52fc7db7fa7915e7edb471274cf3b88e174976ac97e2"
+    },
+    {
+      "path": "qingshang/media/518bc8bfd7e05043559164e49fab82a7cf4c3a3944be8b0b7e3f93f071e9b702.jpg",
+      "bytes": 141512,
+      "sha256": "518bc8bfd7e05043559164e49fab82a7cf4c3a3944be8b0b7e3f93f071e9b702"
+    },
+    {
+      "path": "qingshang/media/5525c5385e27ab3b95f030729ed62846ac4dac692f8cb538192dd14e366d8472.jpg",
+      "bytes": 112559,
+      "sha256": "5525c5385e27ab3b95f030729ed62846ac4dac692f8cb538192dd14e366d8472"
+    },
+    {
+      "path": "qingshang/media/56371bd2e93bd0a7b1ee286763d8ded349406c17a5d391354e237b0fd507c1a7.png",
+      "bytes": 2280,
+      "sha256": "56371bd2e93bd0a7b1ee286763d8ded349406c17a5d391354e237b0fd507c1a7"
+    },
+    {
+      "path": "qingshang/media/5a7b3ef75b1a3d282853486003010ebcb1d99f7ed40b8c3b793f851dfb970932.svg",
+      "bytes": 23720,
+      "sha256": "5a7b3ef75b1a3d282853486003010ebcb1d99f7ed40b8c3b793f851dfb970932"
+    },
+    {
+      "path": "qingshang/media/5e8b5ff65d301f18955508e636cc936a6f561ebe57614d038dad7da8c7bc3992.jpg",
+      "bytes": 181165,
+      "sha256": "5e8b5ff65d301f18955508e636cc936a6f561ebe57614d038dad7da8c7bc3992"
+    },
+    {
+      "path": "qingshang/media/6442252e3d9c3d7c69589dad4ff254e0abc58383188e6a2e984990235d4aa980.jpg",
+      "bytes": 227690,
+      "sha256": "6442252e3d9c3d7c69589dad4ff254e0abc58383188e6a2e984990235d4aa980"
+    },
+    {
+      "path": "qingshang/media/6ac37981fbcbce6430dceb6510ed05f414ac3894c698aa49624f1c4d251fb10d.jpg",
+      "bytes": 282711,
+      "sha256": "6ac37981fbcbce6430dceb6510ed05f414ac3894c698aa49624f1c4d251fb10d"
+    },
+    {
+      "path": "qingshang/media/6b173b7cadc85b3356fa495c937933ba9dd94f89e4a847cb8b4539071dd95860.jpg",
+      "bytes": 208831,
+      "sha256": "6b173b7cadc85b3356fa495c937933ba9dd94f89e4a847cb8b4539071dd95860"
+    },
+    {
+      "path": "qingshang/media/6cfd82be7d3f14d849a935e540d4cc56df832fc80df34e55aea98b97f15849d9.svg",
+      "bytes": 19667,
+      "sha256": "6cfd82be7d3f14d849a935e540d4cc56df832fc80df34e55aea98b97f15849d9"
+    },
+    {
+      "path": "qingshang/media/76955d7d9b6390a43c91eb248a75e2fc074314d30caa496d668c6155ef56b72a.jpg",
+      "bytes": 388950,
+      "sha256": "76955d7d9b6390a43c91eb248a75e2fc074314d30caa496d668c6155ef56b72a"
+    },
+    {
+      "path": "qingshang/media/780ed1449ce134efff2df290b79959c359f0c4b1e1f82986d90df0e49a10b60e.svg",
+      "bytes": 14306,
+      "sha256": "780ed1449ce134efff2df290b79959c359f0c4b1e1f82986d90df0e49a10b60e"
+    },
+    {
+      "path": "qingshang/media/7f543c92de38d93ea1c398a8ae4c7bf779f897380aff1e530676abc121c7f074.jpg",
+      "bytes": 20158,
+      "sha256": "7f543c92de38d93ea1c398a8ae4c7bf779f897380aff1e530676abc121c7f074"
+    },
+    {
+      "path": "qingshang/media/82aeda8607b4bc2f3f6e2c2eee787e7435e598329657661ac97e6df55479f00f.png",
+      "bytes": 40448,
+      "sha256": "82aeda8607b4bc2f3f6e2c2eee787e7435e598329657661ac97e6df55479f00f"
+    },
+    {
+      "path": "qingshang/media/856b99616add9bfeb899210fc43d0fbab3ad8083dcc968ad5ed7853eac74481f.png",
+      "bytes": 2327,
+      "sha256": "856b99616add9bfeb899210fc43d0fbab3ad8083dcc968ad5ed7853eac74481f"
+    },
+    {
+      "path": "qingshang/media/85f265887e1cbd8114b8f47a9986467110f3ce3624f0beaa56002caf524af87d.png",
+      "bytes": 317647,
+      "sha256": "85f265887e1cbd8114b8f47a9986467110f3ce3624f0beaa56002caf524af87d"
+    },
+    {
+      "path": "qingshang/media/87bfa02cb4ebd05fdf69c40192001aac63e71809eb4ac71f39c5e24e885f8c2c.jpg",
+      "bytes": 114946,
+      "sha256": "87bfa02cb4ebd05fdf69c40192001aac63e71809eb4ac71f39c5e24e885f8c2c"
+    },
+    {
+      "path": "qingshang/media/8a52f9e7a728aae5d3f18c5e27a8c51fad6dfed84015f0b5a21a071f5076e894.jpg",
+      "bytes": 626970,
+      "sha256": "8a52f9e7a728aae5d3f18c5e27a8c51fad6dfed84015f0b5a21a071f5076e894"
+    },
+    {
+      "path": "qingshang/media/8ad7f4e9692f0cfff38e8f563b456be09648e29e73cde2f4f20daec6402f087c.png",
+      "bytes": 2351,
+      "sha256": "8ad7f4e9692f0cfff38e8f563b456be09648e29e73cde2f4f20daec6402f087c"
+    },
+    {
+      "path": "qingshang/media/90800fc3c2a7a493557b8adfa5fa81606d43f52b36bc189cbf20445ca2a07081.jpg",
+      "bytes": 239368,
+      "sha256": "90800fc3c2a7a493557b8adfa5fa81606d43f52b36bc189cbf20445ca2a07081"
+    },
+    {
+      "path": "qingshang/media/9378207c8d1b7d190c730747fdec4d9a3091867321e54a46a2cac0550dbc2b3e.jpg",
+      "bytes": 21002,
+      "sha256": "9378207c8d1b7d190c730747fdec4d9a3091867321e54a46a2cac0550dbc2b3e"
+    },
+    {
+      "path": "qingshang/media/93838814d4ebdfda9091b903ce37221bd31eeab653f6075447d315d2b631ff57.svg",
+      "bytes": 18228,
+      "sha256": "93838814d4ebdfda9091b903ce37221bd31eeab653f6075447d315d2b631ff57"
+    },
+    {
+      "path": "qingshang/media/997d4eb736dc495d86d46734754cf1376a1593902fe61300dd3e0633803d13ff.svg",
+      "bytes": 15381,
+      "sha256": "997d4eb736dc495d86d46734754cf1376a1593902fe61300dd3e0633803d13ff"
+    },
+    {
+      "path": "qingshang/media/9f035c7934117434070e99f796c31181426c8e141a467b08c5191e2a4aae7800.png",
+      "bytes": 2063,
+      "sha256": "9f035c7934117434070e99f796c31181426c8e141a467b08c5191e2a4aae7800"
+    },
+    {
+      "path": "qingshang/media/a0e5f89d68adde11f311375a75be0b2cdb1f48154c46f353e91aff9ab4abcded.jpg",
+      "bytes": 19564,
+      "sha256": "a0e5f89d68adde11f311375a75be0b2cdb1f48154c46f353e91aff9ab4abcded"
+    },
+    {
+      "path": "qingshang/media/a1306c32b82385d9c34b7d36a914baf37514bcaacee272f98b76d837c5de88a3.jpg",
+      "bytes": 21771,
+      "sha256": "a1306c32b82385d9c34b7d36a914baf37514bcaacee272f98b76d837c5de88a3"
+    },
+    {
+      "path": "qingshang/media/a3e2ebb0a0746ea6eaf2ebc4b929ab2b6b5f8bcbb3817af94d969bfe31f57002.jpg",
+      "bytes": 209521,
+      "sha256": "a3e2ebb0a0746ea6eaf2ebc4b929ab2b6b5f8bcbb3817af94d969bfe31f57002"
+    },
+    {
+      "path": "qingshang/media/a43ea683fb2f62d2a0d9e566344b0ddf47330909cbb5c320a751283d4e3b090a.jpg",
+      "bytes": 207227,
+      "sha256": "a43ea683fb2f62d2a0d9e566344b0ddf47330909cbb5c320a751283d4e3b090a"
+    },
+    {
+      "path": "qingshang/media/ab4c426d8a9602e28b2fd30d12233baed5a7ef886f1e3f36199b0f0fce812f36.jpg",
+      "bytes": 157719,
+      "sha256": "ab4c426d8a9602e28b2fd30d12233baed5a7ef886f1e3f36199b0f0fce812f36"
+    },
+    {
+      "path": "qingshang/media/b4af1f0ea9d8932f2061ce6d9f05e892d87dbf90221f4ae79c29ef11ac3a93fe.jpg",
+      "bytes": 156979,
+      "sha256": "b4af1f0ea9d8932f2061ce6d9f05e892d87dbf90221f4ae79c29ef11ac3a93fe"
+    },
+    {
+      "path": "qingshang/media/b5165046c485baee741e946a5bc2430218c38b0b373747c37bf847b7909b436c.jpg",
+      "bytes": 97042,
+      "sha256": "b5165046c485baee741e946a5bc2430218c38b0b373747c37bf847b7909b436c"
+    },
+    {
+      "path": "qingshang/media/bcb37403c003c867f9e872f8cb31ee2ce15d0c925514a02895cd3aa17806b379.jpg",
+      "bytes": 21443,
+      "sha256": "bcb37403c003c867f9e872f8cb31ee2ce15d0c925514a02895cd3aa17806b379"
+    },
+    {
+      "path": "qingshang/media/c4f3b8cac6db386002944237c0bc2930a72a00668ed0170e20d81237533735bc.jpg",
+      "bytes": 94274,
+      "sha256": "c4f3b8cac6db386002944237c0bc2930a72a00668ed0170e20d81237533735bc"
+    },
+    {
+      "path": "qingshang/media/c6d0d65807b4bacbfb99c2960561df8c1ae72fc3678dbbceecaae0739ae9264e.png",
+      "bytes": 443066,
+      "sha256": "c6d0d65807b4bacbfb99c2960561df8c1ae72fc3678dbbceecaae0739ae9264e"
+    },
+    {
+      "path": "qingshang/media/caption-triangle.png",
+      "bytes": 40448,
+      "sha256": "82aeda8607b4bc2f3f6e2c2eee787e7435e598329657661ac97e6df55479f00f"
+    },
+    {
+      "path": "qingshang/media/cc212c822873a88eab2bc21d1ce9b66b3effea7e97ea9f51674fa3f58f1da6ad.jpg",
+      "bytes": 165056,
+      "sha256": "cc212c822873a88eab2bc21d1ce9b66b3effea7e97ea9f51674fa3f58f1da6ad"
+    },
+    {
+      "path": "qingshang/media/cc21f76de4cdb89f2509efa003ab91a5f97ba8877dc89566f32f0f5117da7e27.jpg",
+      "bytes": 21943,
+      "sha256": "cc21f76de4cdb89f2509efa003ab91a5f97ba8877dc89566f32f0f5117da7e27"
+    },
+    {
+      "path": "qingshang/media/d6b669ad7e45cf7cc04dcc9f02fa161d04f7e96eec09a92e302cc5d1e1c81105.jpg",
+      "bytes": 144427,
+      "sha256": "d6b669ad7e45cf7cc04dcc9f02fa161d04f7e96eec09a92e302cc5d1e1c81105"
+    },
+    {
+      "path": "qingshang/media/db1ce3f544522716db0748a4d2b8b21bd3e5e4fa2ea2640d26da1791a723d6d6.jpg",
+      "bytes": 22238,
+      "sha256": "db1ce3f544522716db0748a4d2b8b21bd3e5e4fa2ea2640d26da1791a723d6d6"
+    },
+    {
+      "path": "qingshang/media/deeea6f41f74f43b5648d98a518a4023cb2720ed0ca8725b95e1c677a5e08d68.svg",
+      "bytes": 12834,
+      "sha256": "deeea6f41f74f43b5648d98a518a4023cb2720ed0ca8725b95e1c677a5e08d68"
+    },
+    {
+      "path": "qingshang/media/dfa9700f35dc90b8505e37ffcbf308aff10c8cdef22ec2b68ec552e145c57b1a.png",
+      "bytes": 267395,
+      "sha256": "dfa9700f35dc90b8505e37ffcbf308aff10c8cdef22ec2b68ec552e145c57b1a"
+    },
+    {
+      "path": "qingshang/media/dfb021483cb402da50fe82b311fdb5963aafec713a633098f1e576bf5f40ec11.png",
+      "bytes": 1734028,
+      "sha256": "dfb021483cb402da50fe82b311fdb5963aafec713a633098f1e576bf5f40ec11"
+    },
+    {
+      "path": "qingshang/media/e5d04bfd6d2fd1a058ba65a1745e4bc7cc41893000fbef42870d686761cc47ed.jpg",
+      "bytes": 839694,
+      "sha256": "e5d04bfd6d2fd1a058ba65a1745e4bc7cc41893000fbef42870d686761cc47ed"
+    },
+    {
+      "path": "qingshang/media/f2f0a104c5590e65faccc797cee46428d29d05be360565caf391d842cf31ec8f.jpg",
+      "bytes": 311280,
+      "sha256": "f2f0a104c5590e65faccc797cee46428d29d05be360565caf391d842cf31ec8f"
+    },
+    {
+      "path": "qingshang/media/f349a98fa843ca623ad685766389ba7a8c7ffd7d9b8eb08a5a8c0a0d4ce9926f.jpg",
+      "bytes": 14973,
+      "sha256": "f349a98fa843ca623ad685766389ba7a8c7ffd7d9b8eb08a5a8c0a0d4ce9926f"
+    },
+    {
+      "path": "qingshang/media/f6a2a6394e75d56dec44d539babdea9cd1bb81c9eaf5ef8f4606f309db9dba8e.jpg",
+      "bytes": 20994,
+      "sha256": "f6a2a6394e75d56dec44d539babdea9cd1bb81c9eaf5ef8f4606f309db9dba8e"
+    },
+    {
+      "path": "qingshang/media/f9f354edbf374c69bfaff5e90628c9ffee82854a7c26222915095b059b1c5a12.jpg",
+      "bytes": 56772,
+      "sha256": "f9f354edbf374c69bfaff5e90628c9ffee82854a7c26222915095b059b1c5a12"
+    },
+    {
+      "path": "qingshang/media/fbb6c02a395aacf61fec988bb258657bf3763420359ea6603b5ed436fb16675b.jpg",
+      "bytes": 91889,
+      "sha256": "fbb6c02a395aacf61fec988bb258657bf3763420359ea6603b5ed436fb16675b"
+    },
+    {
+      "path": "qingshang/media/number-1.png",
+      "bytes": 1703,
+      "sha256": "2cdd7888db1e55ab652da91b792ace9b5febcd7457a2090b8b810deae106b3d7"
+    },
+    {
+      "path": "qingshang/media/number-2.png",
+      "bytes": 2327,
+      "sha256": "856b99616add9bfeb899210fc43d0fbab3ad8083dcc968ad5ed7853eac74481f"
+    },
+    {
+      "path": "qingshang/media/number-3.png",
+      "bytes": 2280,
+      "sha256": "56371bd2e93bd0a7b1ee286763d8ded349406c17a5d391354e237b0fd507c1a7"
+    },
+    {
+      "path": "qingshang/media/number-4.png",
+      "bytes": 2063,
+      "sha256": "9f035c7934117434070e99f796c31181426c8e141a467b08c5191e2a4aae7800"
+    },
+    {
+      "path": "qingshang/media/number-5.png",
+      "bytes": 2351,
+      "sha256": "8ad7f4e9692f0cfff38e8f563b456be09648e29e73cde2f4f20daec6402f087c"
+    },
+    {
+      "path": "qingshang/media/number-6.png",
+      "bytes": 2297,
+      "sha256": "4121912c016ce7d66a0f717df729cf2ff79ca91f84037629ff98a3f523bdd15d"
+    },
+    {
+      "path": "qingshang/occurrences.json",
+      "bytes": 66312,
+      "sha256": "e775668ae3827052eb529ea0ace626b34421a652cebe2ebe1d8bf3633c54fc4a"
+    },
+    {
+      "path": "qingshang/README.md",
+      "bytes": 698,
+      "sha256": "860572d553f470df9dfaa773ff4e5084058bf465f9452e0fc20cb04994342092"
+    },
+    {
+      "path": "qingshang/sources/issue-01-wechat-20261104/reading.html",
+      "bytes": 82638,
+      "sha256": "ffcf530605406711a0fed93c1ecd91547ef6055f0f52398a27afbbd9cf329a29"
+    },
+    {
+      "path": "qingshang/sources/issue-01-wechat-20261104/source-record.json",
+      "bytes": 873,
+      "sha256": "41600360c8393849e371beab562ceab61245a8efd65915da8dab4b161b541de2"
+    },
+    {
+      "path": "qingshang/sources/issue-02-wechat-20261104/reading.html",
+      "bytes": 61827,
+      "sha256": "23a6e196e2fd6f2a051bbb1f2f753a07504aedf9644aa9698884666cabc78e9d"
+    },
+    {
+      "path": "qingshang/sources/issue-02-wechat-20261104/source-record.json",
+      "bytes": 837,
+      "sha256": "c4aba7cd6e8f676b6ade955f941df8eb65cb5633c1fb2f103883d2380206ff1b"
+    },
+    {
+      "path": "qingshang/sources/issue-03-v05/assets/caption-triangle.png",
+      "bytes": 40448,
+      "sha256": "82aeda8607b4bc2f3f6e2c2eee787e7435e598329657661ac97e6df55479f00f"
+    },
+    {
+      "path": "qingshang/sources/issue-03-v05/assets/field-1.jpg",
+      "bytes": 181165,
+      "sha256": "5e8b5ff65d301f18955508e636cc936a6f561ebe57614d038dad7da8c7bc3992"
+    },
+    {
+      "path": "qingshang/sources/issue-03-v05/assets/field-2.jpg",
+      "bytes": 282711,
+      "sha256": "6ac37981fbcbce6430dceb6510ed05f414ac3894c698aa49624f1c4d251fb10d"
+    },
+    {
+      "path": "qingshang/sources/issue-03-v05/assets/field-3.jpg",
+      "bytes": 311280,
+      "sha256": "f2f0a104c5590e65faccc797cee46428d29d05be360565caf391d842cf31ec8f"
+    },
+    {
+      "path": "qingshang/sources/issue-03-v05/assets/field-4.jpg",
+      "bytes": 626970,
+      "sha256": "8a52f9e7a728aae5d3f18c5e27a8c51fad6dfed84015f0b5a21a071f5076e894"
+    },
+    {
+      "path": "qingshang/sources/issue-03-v05/assets/field-5.jpg",
+      "bytes": 839694,
+      "sha256": "e5d04bfd6d2fd1a058ba65a1745e4bc7cc41893000fbef42870d686761cc47ed"
+    },
+    {
+      "path": "qingshang/sources/issue-03-v05/assets/field-6.jpg",
+      "bytes": 144427,
+      "sha256": "d6b669ad7e45cf7cc04dcc9f02fa161d04f7e96eec09a92e302cc5d1e1c81105"
+    },
+    {
+      "path": "qingshang/sources/issue-03-v05/assets/number-1.png",
+      "bytes": 1703,
+      "sha256": "2cdd7888db1e55ab652da91b792ace9b5febcd7457a2090b8b810deae106b3d7"
+    },
+    {
+      "path": "qingshang/sources/issue-03-v05/assets/number-2.png",
+      "bytes": 2327,
+      "sha256": "856b99616add9bfeb899210fc43d0fbab3ad8083dcc968ad5ed7853eac74481f"
+    },
+    {
+      "path": "qingshang/sources/issue-03-v05/assets/number-3.png",
+      "bytes": 2280,
+      "sha256": "56371bd2e93bd0a7b1ee286763d8ded349406c17a5d391354e237b0fd507c1a7"
+    },
+    {
+      "path": "qingshang/sources/issue-03-v05/assets/number-4.png",
+      "bytes": 2063,
+      "sha256": "9f035c7934117434070e99f796c31181426c8e141a467b08c5191e2a4aae7800"
+    },
+    {
+      "path": "qingshang/sources/issue-03-v05/assets/number-5.png",
+      "bytes": 2351,
+      "sha256": "8ad7f4e9692f0cfff38e8f563b456be09648e29e73cde2f4f20daec6402f087c"
+    },
+    {
+      "path": "qingshang/sources/issue-03-v05/assets/number-6.png",
+      "bytes": 2297,
+      "sha256": "4121912c016ce7d66a0f717df729cf2ff79ca91f84037629ff98a3f523bdd15d"
+    },
+    {
+      "path": "qingshang/sources/issue-03-v05/assets/water-soft-v2.png",
+      "bytes": 1371021,
+      "sha256": "010974b3cd56d4815980541087006b2482d23b97c8512c05169a7d4c8857608c"
+    },
+    {
+      "path": "qingshang/sources/issue-03-v05/source-paragraphs.json",
+      "bytes": 19875,
+      "sha256": "f6ea933fbcf296685bb89dd9c71e291daa879be95a26a1db3c65bb11458c9c76"
+    },
+    {
+      "path": "qingshang/sources/issue-03-v05/source-record.json",
+      "bytes": 820,
+      "sha256": "611e9ba5b07b88238536d4e5fde5ff3e55e97d4e27cdeaeb1c624b2dd3291b57"
+    },
+    {
+      "path": "qingshang/sources/issue-03-v05/upper-water.html",
+      "bytes": 21574,
+      "sha256": "8bd3cf5843934631e8eb1a2cea12e9adb2b446afdbf03d6d58087c6ccd1fb3c3"
+    },
+    {
+      "path": "qingshang/sources/issue-03-v05/upper-white.html",
+      "bytes": 23178,
+      "sha256": "83529eddd7b72746245ebb58740a3fa85fb93f89dd2c0a94a6117189c0e5dec4"
+    },
+    {
+      "path": "qingshang/summaries/issue-01.json",
+      "bytes": 21650,
+      "sha256": "0055c6c6c4fc0983e3f66b63fbe3311c1d1a8d220f116cf895dd081d4e49a93d"
+    },
+    {
+      "path": "qingshang/summaries/issue-01.md",
+      "bytes": 8311,
+      "sha256": "0cdb7a9b7482182c65baeed912d343694c7b3694e28237cb4e29d8365a763553"
+    },
+    {
+      "path": "qingshang/summaries/issue-02.json",
+      "bytes": 20604,
+      "sha256": "d2243585faa08532dbb46f64c8c892c963d63c3b232a2369eb5e345ba6d02b3b"
+    },
+    {
+      "path": "qingshang/summaries/issue-02.md",
+      "bytes": 7389,
+      "sha256": "f60e3b7c09a0ad45826f42b7a415dd67ba10f5e7896acd7e191e47a8dc439165"
+    },
+    {
+      "path": "qingshang/summaries/issue-03.json",
+      "bytes": 10573,
+      "sha256": "028ef435eefd44adab17ad3e41365b172087de285abd1c3b0ec1571339e5f1c3"
+    },
+    {
+      "path": "qingshang/summaries/issue-03.md",
+      "bytes": 5563,
+      "sha256": "0b36840d427c30785103b2b131efab43407e4d33b6288289716a7c4f0f00ef4e"
+    },
+    {
+      "path": "qingshang/texts/issue-01-blocks.txt",
+      "bytes": 12001,
+      "sha256": "ad946e6a3a77fb4c309956d8913e33f6e497be19f30aaf4eaf027e3870228511"
+    },
+    {
+      "path": "qingshang/texts/issue-01-original.md",
+      "bytes": 15465,
+      "sha256": "217ac500830e24162269109dc4f030c5699b2f4201c632d9b55278130b11f590"
+    },
+    {
+      "path": "qingshang/texts/issue-01-photos.json",
+      "bytes": 10057,
+      "sha256": "ec28860492c02b46f3699511f56d9e4d3789846c5974896cd4966b12d5f2a37b"
+    },
+    {
+      "path": "qingshang/texts/issue-02-blocks.txt",
+      "bytes": 8078,
+      "sha256": "f2352dfb9a08085de4494f6bd4da43c22159b65fb2d6bf4e42cf119c4ac48539"
+    },
+    {
+      "path": "qingshang/texts/issue-02-card-texts.json",
+      "bytes": 3309,
+      "sha256": "cddefebbcff8ce14313be274f8166075c2bccb02592bce25d414fe9f6b2a773f"
+    },
+    {
+      "path": "qingshang/texts/issue-02-original.md",
+      "bytes": 14022,
+      "sha256": "696b1f68b14b953883d0e398c084d8c28683b1b594b886ac64a4ecc0a4165e11"
+    },
+    {
+      "path": "qingshang/texts/issue-02-photos.json",
+      "bytes": 6289,
+      "sha256": "b31952378a807a25e5cf9ba44bfa659eaf4685883ef018a0a32f156eed5e2d13"
+    },
+    {
+      "path": "qingshang/texts/issue-03-photos.json",
+      "bytes": 3440,
+      "sha256": "8546db1e285c56a8f3fbb2fb3653580803c84de88df6e96b56bb51b47f6192ab"
+    },
+    {
+      "path": "qingshang/texts/issue-03-upper-original.md",
+      "bytes": 9208,
+      "sha256": "e4873ca68f115cdf3aad73453b8aceabbb6eca6bdb0d317ed72119a7a5a2bbc6"
+    },
+    {
+      "path": "qingshang/texts/issue-03-upper-structure.json",
+      "bytes": 19552,
+      "sha256": "8552e4efc8c607ed7a3220bcb5cb4bcb0e590f633329b97b8a4131eeae751a23"
+    },
+    {
+      "path": "qingshang-preview.html",
+      "bytes": 307146,
+      "sha256": "8627192da8c28fea5fa660000b9b55a983c9d101ecdf0d7e312cf46ac6434498"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5398,
+      "sha256": "47b5b54d7040541e76ae61928060052f2da012acd1f40ce26b24d1f6917936d1"
+    },
+    {
+      "path": "作品版权与发布建议-20261111.md",
+      "bytes": 8526,
+      "sha256": "1a24d1066f85ed6e640eb53c4bc837189e252c9135f1487158f32d57aa679b50"
+    }
+  ]
+}
